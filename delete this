@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Wahlen am 06.03.1983</title>
+  </head>
+  <body>
+    <h1>Wahlen am 06.03.1983</h1>
+    <h2>Ergebnisse</h2>
+    <ul>
+      <li>CDU 48,8%</li>
+      <li>SPD 38,2%</li>
+      <li>FDP 7,0%</li>
+      <li>Grüne 5,6%</li>
+      <li>Sonstige 0,4%</li>
+    </ul>
+    <p>Kanzler: (CDU)Helmut Kohl</p>
+  </body>
+</html>
